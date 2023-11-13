@@ -1,1 +1,1 @@
-# Terraform_Azure_SPN_Ancho
+# terraform_azure_ancho_spn
